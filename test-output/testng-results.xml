@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11322" started-at="2021-01-13T09:50:53Z" finished-at="2021-01-13T09:51:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11322" started-at="2021-01-13T09:50:53Z" finished-at="2021-01-13T09:51:04Z">
+      <class name="Test.Assignment">
+        <test-method status="PASS" signature="amountSort()[pri:0, instance:Test.Assignment@4b1c1ea0]" name="amountSort" duration-ms="11292" started-at="2021-01-13T09:50:53Z" finished-at="2021-01-13T09:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountSort -->
+      </class> <!-- Test.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
